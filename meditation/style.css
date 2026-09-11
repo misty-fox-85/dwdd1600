@@ -1,0 +1,54 @@
+img {
+    width: 500px;
+    height:auto;
+}
+
+body {
+    background-color: #9443ED;}
+   nav {background-color:#480058;} 
+   nav ul {
+       display: flex;
+       gap:20px;
+       padding:10px;
+       list-style-type: none;
+       justify-content: center;
+   }
+   nav a {color: white; text-decoration: none;}
+   h1 {color:#1846B7; font-size: 40px;}
+   h2 {color: #480058; font-size: 30px;}
+   p {color: Z#1846B7; font-size: 18px}
+   h1 {text-align: center;}
+   body > p:first-of-type {text-align: center;}
+   h2 {margin-left: 20px}
+   body > p:nth-of-type(2) {margin-left: 20px;}
+   img {display: block; margin:auto; margin-right:auto;}
+   footer {background-color:#480058; color: white; text-align: center; padding: 20px; margin-top: 30px;}
+   section {margin-top: 20px;}
+   body {text-align: center;}
+   ul {display: inline-block; text-align: left;}
+   .breathinbg-page {text-align: left;}
+   .breathing-page h1 {text-align; center;}
+   .breathing-page p {text-align:center;}
+   .breathing-page h2 {text-align: left; margin-left: 20px;}
+    .breathing-page section p {text-align: left; margin-left: 20px;}
+    .breathing-page ol { display:block; text-align: left; margin-left: 40px;}
+    .mindfulness-words {position:relative; height:420px; max-width: 1100px; margin: 0;}
+    .mindfulness-words p {position: absolute; width: 240px}
+    .word1 {top: 45px; left: 8px;}
+    .word2 {right: 8px; top: 45px;}
+    .word3 {top: 230px; left: 10px;}
+    .word4 {right: 10px; top: 230px;}
+    .word5 {left: 50%; top: 120px; transform: translateX(-50%); text-align: center; width: 420px;}
+    .mindfulness-center {position: absolute; top: 420px; left: 50%; transform: translateX(-50%); text-align: center;}
+    .mindfulness-center h2 {font-size: 19px; margin-left: 0; font-weight:normal;}
+    .mindfulness-center p {position: absolute; font-size: 17px; width: 300px;}
+    .mindfulness-center p:nth-of-type(1) {top: 90px; left: -180px;}
+    .mindfulness-center p:nth-of-type(2) {top: 150px; left: 350px;}
+    .mindfulness-center p:nth-of-type(3) {top: 230px; left: 200px;}
+
+    
+
+
+   
+
+
