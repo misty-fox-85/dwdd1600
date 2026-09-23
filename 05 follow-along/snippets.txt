@@ -1,0 +1,39 @@
+<figure>
+    <img src="images/chicken_cordon_bleu.webp" alt="Chicken Cordon Bleu" width="300" height="250" loading="lazy">
+    <figcaption>Chicken Cordon Bleu</figcaption>
+</figure>
+
+<figure>
+    <img src="images/curry_chicken.webp" alt="Curry Chicken" width="300" height="150" loading="lazy">
+    <figcaption>Curry Chicken</figcaption>
+</figure>
+
+<figure>
+    <img src="images/fathead_rolls.webp" alt="Fathead Rolls" width="300" height="369" loading="lazy">
+    <figcaption>Fathead Rolls</figcaption>
+</figure>
+
+<figure>
+    <img src="images/fried_zucchini.webp" alt="Fried Zucchini" width="300" height="300" loading="lazy">
+    <figcaption>Fried Zucchini</figcaption>
+</figure>
+
+<figure>
+    <img src="images/ginger_beef_with_peppers.webp" alt="Ginger Beef with Peppers" width="300" height="183" loading="lazy">
+    <figcaption>Ginger Beef with Peppers</figcaption>
+</figure>
+
+<figure>
+    <img src="images/greek_salad_with_feta_cheese.webp" alt="Greek Salad with Feta Cheese" width="300" height="200" loading="lazy">
+    <figcaption>Greek Salad with Feta Cheese</figcaption>
+</figure>
+
+<figure>
+    <img src="images/grilled_salmon_fillet_with_vegetables.webp" alt="Grilled Salmon Fillet with Vegetables" width="300" height="200" loading="lazy">
+    <figcaption>Grilled Salmon Fillet with Vegetables</figcaption>
+</figure>
+
+<figure>
+    <img src="images/steamed_cauliflower.webp" alt="Steamed Cauliflower" width="300" height="263" loading="lazy">
+    <figcaption>Steamed Cauliflower</figcaption>
+</figure>
